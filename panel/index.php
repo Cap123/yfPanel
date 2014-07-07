@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- 
+       ORIGINAL CODE BY: SARASOUEIDAN (WINDOWS 8 TILES)
+       VIEW HER BLOG POST HERE: http://sarasoueidan.com/blog/windows8-animations/
+       EDITIED BY: CAP123
+  -->
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>yfPanel</title>
 
   <link rel="stylesheet" href="../css/demo-styles.css" />
-  <script src="js/modernizr-1.5.min.js"></script>
+  <script src="../js/modernizr-1.5.min.js"></script>
 
 </head>
 
