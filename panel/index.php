@@ -3,16 +3,16 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>Windows-8-like Animations with CSS3 and jQuery</title>
+  <title>yfPanel</title>
 
-  <link rel="stylesheet" href="css/demo-styles.css" />
+  <link rel="stylesheet" href="../css/demo-styles.css" />
   <script src="js/modernizr-1.5.min.js"></script>
 
 </head>
 
 <body>
  <header>
-   <a href="http://sarasoueidan.com/blog/windows8-animations/" class="tutorial-link">Read Tutorial</a>
+   <div  class="tutorial-link"><a href="" style="float:right;"><?php echo $yfUser; ?></a></div>
  </header>
   <!--===============================Start Demo====================================================-->
 <div class="demo-wrapper">
@@ -58,7 +58,7 @@
         </li>
         <li class="tile tile-big tile-4 fig-tile" data-page-type="r-page" data-page-name="random-r-page">
           <figure>
-            <img src="images/blue.jpg" />
+            <img src="../images/blue.jpg" />
             <figcaption class="tile-caption caption-left">Slide-out Caption from left</figcaption>
           </figure>
         </li>
@@ -92,7 +92,7 @@
       <div class="col3 clearfix">      
         <li class="tile tile-2xbig tile-9 fig-tile" data-page-type="custom-page" data-page-name="random-r-page">
           <figure>
-            <img src="images/summer.jpg" />
+            <img src="../images/summer.jpg" />
             <figcaption class="tile-caption caption-bottom">Fixed Caption: Some Subtitle or Tile Description Goes Here with some kinda link or anything
             </figure>
         </li>
